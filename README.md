@@ -6,12 +6,9 @@ The A<sup>2</sup>Pt approach provides fresh insight into the OSR problem.
 
 ## <a name="ssb"/> :globe_with_meridians: The Semantic Shift Benchmark
 
-Download instructions for the datasets in the SSB can be found at the links below. The folder `data/open_set_splits` contains pickle files with the class splits. For each dataset, `data` contains functions which return PyTorch datasets containing 'seen' and 'unseen' classes according to the SSB splits. For the FGVC datasets, the pickle files also include information on which unseen classes are most similar to which seen classes.
+Download instructions for the datasets in the SSB can be found at the links below. The folder `data/open_set_splits` contains pickle files with the class splits. For each dataset, `data` contains functions which return PyTorch datasets containing 'seen' and 'unseen' classes according to the SSB splits. 
 
 * [ImageNet-21K-P](https://github.com/Alibaba-MIIL/ImageNet21K),
- [CUB](https://drive.google.com/drive/folders/1kFzIqZL_pEBVR7Ca_8IKibfWoeZc3GT1),
-[Stanford Cars](https://ai.stanford.edu/~jkrause/cars/car_dataset.html),
-[FGVC-Aircraft](https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/)
 
 Links for the legacy open-set datasets are also available at the links below:
 * [MNIST](https://pytorch.org/vision/stable/datasets.html),
