@@ -2,7 +2,7 @@
 
 In this study, we unveiled that the unknown open set misclassified as a known close class is caused by the irrelevant co-occurrence association information.We accordingly proposed an anti-associative prompt tuning (A<sup>2</sup>Pt) approach to precisely suppress the associative influence.A<sup>2</sup>Pt leverages the cross-modal priors to generate the most class-related target feature and employ anti-association calibration with three loss functions to supervise the difference between target and association. Extensive experiments on CIFAR, TinyImageNet and ImageNet-21K-P benchmarks validated the effectiveness of the proposed approach, in striking contrast with the state-of-the-art.
 The A<sup>2</sup>Pt approach provides fresh insight into the OSR problem.
-!(<img width="773" alt="图片1" src="https://github.com/Hrren/A2Pt/assets/88883209/917d85fb-45b3-45f4-b43f-53edd57a1f53">)
+<img width="773" alt="图片1" src="https://github.com/Hrren/A2Pt/assets/88883209/917d85fb-45b3-45f4-b43f-53edd57a1f53">
 
 ## <a name="ssb"/> :globe_with_meridians: The Semantic Shift Benchmark
 
