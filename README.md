@@ -24,7 +24,7 @@ a directory with the test data.
 
 
 ## <a name="running"/> :running: Running
-###Dependencies
+### Dependencies
 ```
 pip install -r requirements.txt
 ```
@@ -40,4 +40,15 @@ Set ```SAVE_DIR``` (logfile destination) and ```PYTHON``` (path to python interp
 
 ```
 bash osr_train._double.sh
+```
+## <a name="cite"/> :clipboard: Citation
+
+If you use this code in your research, please consider citing our paper:
+```
+@artical{Ren:2023:A2pt,
+author = {Hairui Ren, Fan Tang, Xingjia Pan, Juan Cao, Weiming Dong, Zhiwen Lin, Ke Yan, Changsheng Xu},
+title = {Anti-Associative Prompt Tuning for Open Set Visual Recognition},
+year = {2023},
+booktitle = {IEEE TRANSACTIONS ON Multimedia},
+}
 ```
