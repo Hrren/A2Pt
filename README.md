@@ -26,7 +26,7 @@ a directory with the test data.
 pip install -r requirements.txt
 ```
 ### Config
----
+
 Set paths to datasets  ```config.py```
 
 Set ```SAVE_DIR``` (logfile destination) and ```PYTHON``` (path to python interpreter) in ```bash_scripts``` scripts.
