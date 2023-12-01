@@ -1,4 +1,4 @@
-# A^2^Pt: Anti-Associative Prompt Tuning for Open Set Visual Recognition
+# A<sup>2</sup>Pt: Anti-Associative Prompt Tuning for Open Set Visual Recognition
 
 ### Config
 
